@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello usc"
+echo "hello better-usc"
 }
 
 func
